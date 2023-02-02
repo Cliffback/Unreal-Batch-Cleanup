@@ -5,5 +5,5 @@ Batch script for cleaning up Unreal Engine Binary and Intermediate folders in mu
 ## Multiple projects
 Place the cleanup.bat script in the folder above your project folders (the .uproject file has to be one level below the batch file), and rename every occurence of "project1" or "project2" in the script with your folder name. 
 
-## Single proijects
+## Single projects
 Place the cleanup-single.bat script at the same level as your .uproject file.
